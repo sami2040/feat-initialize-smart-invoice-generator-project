@@ -6,3 +6,4 @@ feat: implement invoice creation workflow
 feat: add customer information management
 fix: validate invoice amount inputs
 refactor: improve invoice processing logic
+test: add invoice generation unit tests
