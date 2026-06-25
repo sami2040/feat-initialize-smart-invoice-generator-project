@@ -4,3 +4,4 @@ docs: add project description and setup guide
 feat: create invoice data model
 feat: implement invoice creation workflow
 feat: add customer information management
+fix: validate invoice amount inputs
